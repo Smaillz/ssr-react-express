@@ -1,5 +1,5 @@
 {
-    "name": "@ssr/server",
+    "name": "@ssr/rest-client",
     "version": "1.0.0",
     "main": "./src/index.ts",
     "scripts": {
