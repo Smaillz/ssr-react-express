@@ -1,0 +1,11 @@
+{
+    "name": "@ssr/app-client",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "scripts": {
+        "watch": "tsc --watch"
+    },
+    "peerDependencies": {
+        
+    }
+}
